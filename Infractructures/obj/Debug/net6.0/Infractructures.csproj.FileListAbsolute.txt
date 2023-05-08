@@ -1,0 +1,12 @@
+D:\LearnX\Infractructures\bin\Debug\net6.0\Infractructures.deps.json
+D:\LearnX\Infractructures\bin\Debug\net6.0\Infractructures.dll
+D:\LearnX\Infractructures\bin\Debug\net6.0\Infractructures.pdb
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.csproj.AssemblyReference.cache
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.AssemblyInfoInputs.cache
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.AssemblyInfo.cs
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.csproj.CoreCompileInputs.cache
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.dll
+D:\LearnX\Infractructures\obj\Debug\net6.0\refint\Infractructures.dll
+D:\LearnX\Infractructures\obj\Debug\net6.0\Infractructures.pdb
+D:\LearnX\Infractructures\obj\Debug\net6.0\ref\Infractructures.dll
